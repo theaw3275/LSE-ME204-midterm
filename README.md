@@ -1,4 +1,4 @@
-## London Doesn't Deserve its Rainy Reputation
+## README
 
 Thea West
 
@@ -20,4 +20,4 @@ I chose to compare London to Amsterdam, Brussels, Dublin, and Paris as these oth
 
 The data showed that London was actually the least rainy of the five cities in 2024. The result is in the plot:
 
-![Monthly rainy‑day counts by city](data/rainy_days_by_city.png)
+![Monthly rainy‑day counts by city](images/rainy_days_by_city.svg)
