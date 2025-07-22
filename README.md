@@ -1,8 +1,10 @@
-## README
+## Analysis of London's Rainy Reputation
 
-Thea West
+**Author:** Thea West
 
-Due: 22 Jul, 2025, 8pm BST
+**LSE ID Number:** 240013854
+
+**Due:** 22 Jul, 2025, 8pm BST
 
 ### Goal:
 
